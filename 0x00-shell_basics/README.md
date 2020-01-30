@@ -1,1 +1,1 @@
-my first script
+learning shell
