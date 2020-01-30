@@ -1,2 +1,2 @@
 #!/bin/bash
-su id -ur
+su id -r
