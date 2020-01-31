@@ -1,2 +1,2 @@
 #!/bin/bash
-chamod X a-x *
+chamod -R a-x *
