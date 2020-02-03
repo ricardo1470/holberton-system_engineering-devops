@@ -1,2 +1,2 @@
-C#!/bin/bash
-set
+#!/bin/bash
+set printenv
