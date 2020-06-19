@@ -17,6 +17,10 @@
 | [10. FizzBuzz](./10-fizzbuzz) | Bash script that displays numbers from `1` to `100`  |
 | **advanced** | **Description** |
 | [11. Read and cut](./100-read_and_cut) | script that displays the content of the file `/etc/passwd`.  |
+| [12. Tell the story of passwd](./101-tell_the_story_of_passwd) | script that displays the content of the file `/etc/passwd`, using the `while loop` + `IFS`.  |
+| [13. Let's parse Apache logs](./102-lets_parse_apache_logs) | script that displays the visitor IP along with the HTTP status code from the Apache log file.  |
+| [14. Dig the data](./103-dig_the-data) |   |
+|   |   |
 
 ---
 > ## contact 💬
