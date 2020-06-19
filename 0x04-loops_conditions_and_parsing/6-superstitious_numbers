@@ -1,20 +1,19 @@
 #!/usr/bin/env bash
 # This script that displays numbers from 1 to 20
 CONT=1
-while [  $CONT -lt 21 ];
+while [ $CONT -lt 21 ];
 do
     echo $CONT
-    if [ $CONT = 4 ];
-    then
-        echo "bad luck from China"
-
-    elif [ $CONT = 9 ];
-    then
-        echo "bad luck from Japan"
-
-    elif [ $CONT = 17 ];
-    then
-        echo "bad luck from Italy"
-    fi
+    case $CONT in
+        4)
+            echo "bad luck from China"
+            ;;
+        9)
+            echo "bad luck from Japan"
+            ;;
+    17)
+            echo "bad luck from Italy"
+            ;;
+    esac
     (( CONT = CONT + 1 ))
 done
