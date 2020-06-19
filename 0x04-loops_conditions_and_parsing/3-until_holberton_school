@@ -1,2 +1,8 @@
 #!/usr/bin/env bash
 # This script that displays Holberton School 10 times.
+CONTADOR=19
+until [  $CONTADOR -lt 10 ];
+do
+    echo "Holberton School"
+    let CONTADOR-=1
+done

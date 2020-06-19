@@ -1,2 +1,12 @@
 #!/usr/bin/env bash
 # This script that displays Holberton School 10 times,
+CONTADOR=0
+while [  $CONTADOR -lt 10 ];
+do
+    echo "Holberton School"
+    if [ $CONTADOR = 8 ];
+    then
+        echo "Hi"
+    fi
+    let CONTADOR=CONTADOR+1
+    done

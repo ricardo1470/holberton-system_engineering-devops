@@ -1,2 +1,20 @@
 #!/usr/bin/env bash
 # This script that displays numbers from 1 to 20
+CONTADOR=1
+while [  $CONTADOR -lt 21 ];
+do
+    echo $CONTADOR
+    if [ $CONTADOR = 4 ];
+    then
+        echo "bad luck from China"
+
+    elif [ $CONTADOR = 9 ];
+    then
+        echo "bad luck from Japan"
+
+    elif [ $CONTADOR = 17 ];
+    then
+        echo "bad luck from Italy"
+    fi
+    let CONTADOR=CONTADOR+1
+    done
