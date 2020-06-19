@@ -1,2 +1,6 @@
 #!/usr/bin/env bash
 # script that displays: The content of the current directory
+for((i=0;i<1;i++));
+do
+    ls
+done

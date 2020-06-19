@@ -17,4 +17,4 @@ do
         echo "bad luck from Italy"
     fi
     (( CONT = CONT + 1 ))
-    done
+done
