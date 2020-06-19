@@ -15,7 +15,8 @@
 | [8. For ls](./8-for_ls) | Bash script that displays: The content of the current directory In a list format Where only the part of the name after the first dash is displayed  |
 | [9. To file, or not to file](./9-to_file_or_not_to_file) | Bash script that gives you information about the `holbertonschool` file.  |
 | [10. FizzBuzz](./10-fizzbuzz) | Bash script that displays numbers from `1` to `100`  |
-|   |   |
+| **advanced** | **Description** |
+| [11. Read and cut](./100-read_and_cut) | script that displays the content of the file `/etc/passwd`.  |
 
 ---
 > ## contact 💬
