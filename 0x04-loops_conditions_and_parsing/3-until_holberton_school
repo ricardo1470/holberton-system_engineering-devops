@@ -4,5 +4,5 @@ CONT=19
 until [  $CONT -lt 10 ];
 do
     echo "Holberton School"
-    let CONT -= 1
+    (( CONT -= 1 ))
 done

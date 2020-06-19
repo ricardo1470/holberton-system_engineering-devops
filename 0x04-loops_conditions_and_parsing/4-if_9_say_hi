@@ -8,5 +8,5 @@ do
     then
         echo "Hi"
     fi
-    let CONT = CONT + 1
+    (( CONT = CONT + 1 ))
     done
