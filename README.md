@@ -6,7 +6,7 @@
 | [0x01-shell_permissions](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x01-shell_permissions) | add description  |
 | [0x02-shell_redirections](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x02-shell_redirections) | add description  |
 | [0x03-shell_variables_expansions](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x03-shell_variables_expansions) | add description  |
-| [0x04-loops_conditions_and_parsing]() | add description  |
+| [0x04-loops_conditions_and_parsing](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing) | add description  |
 |   |   |
 
 ---
