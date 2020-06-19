@@ -1,16 +1,16 @@
 #!/usr/bin/env bash
 # This script that loops from 1 to 10
-CONTADOR=0
-while [  $CONTADOR -lt 8 ];
+CONT=0
+while [  $CONT -lt 8 ];
 do
     echo "Holberton School"
-    if [ $CONTADOR = 2 ];
+    if [ $CONT = 2 ];
     then
         echo "bad luck"
 
-    elif [ $CONTADOR = 5 ];
+    elif [ $CONT = 5 ];
     then
         echo "good luck"
     fi
-    let CONTADOR=CONTADOR+1
+    let CONT = CONT + 1
     done
