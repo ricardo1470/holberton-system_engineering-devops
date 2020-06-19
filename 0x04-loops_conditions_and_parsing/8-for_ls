@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # script that displays: The content of the current directory
-for((i=0;i<1;i++));
+ls="$(ls)"
+for list in $ls
 do
-    ls
+    file=$(echo "$list" | cut -d - -f2)
+	echo "$file"
 done
