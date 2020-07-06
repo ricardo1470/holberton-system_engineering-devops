@@ -8,6 +8,7 @@
 | [0x03-shell_variables_expansions](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x03-shell_variables_expansions) | add description  |
 | [0x04-loops_conditions_and_parsing](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing) | add description  |
 | [0x05-processes_and_signals](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x05-processes_and_signals) | add description  |
+| [0x06-regular_expressions]() | add description  |
 |   |   |
 
 ---
