@@ -1,4 +1,4 @@
-> # 0x07. Networking basics #0
+> # 0x08. Networking basics #1
 ---
 | **Filename** | **Description** |
 |---|---|
@@ -9,7 +9,7 @@
 |   |   |
 ---
 ## License
-*`Networking basics #0` is open source and therefore free to download and use without permission.*
+*`Networking basics #1` is open source and therefore free to download and use without permission.*
 
 <a href="url"><img src="https://www.holbertonschool.com/holberton-logo.png" align="middle" width="100" height="30"></a>
 
