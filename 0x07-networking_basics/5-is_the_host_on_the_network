@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# bash script displays Usage:
+# 5-is_the_host_on_the_network {IP_ADDRESS} if no argument passed
+if (($# == 0));
+then
+    echo "Usage: 5-is_the_host_on_the_network {IP_ADDRESS}"
+else
+    ping "$1" -c 5
+fi
