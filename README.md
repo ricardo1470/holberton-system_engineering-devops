@@ -11,6 +11,7 @@
 | [0x06-regular_expressions](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x06-regular_expressions) | add description  |
 | [0x07. Networking basics #0](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x07-networking_basics) | add description  |
 | [0x08. Networking basics #1](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x08-networking_basics_2) | add description  |
+| [0x09. Web infrastructure design](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x09-web_infrastructure_design) | add description  |
 |   |   |
 ---
 > ## optional
@@ -28,7 +29,7 @@
 ---
 
 ## License
-*`System engineering & DevOps - Bash` is open source and therefore free to download and use without permission.*
+*`Web infrastructure design` is open source and therefore free to download and use without permission.*
 
 <a href="url"><img src="https://www.holbertonschool.com/holberton-logo.png" align="middle" width="100" height="30"></a>
 
