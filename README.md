@@ -12,6 +12,12 @@
 | [0x07. Networking basics #0](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x07-networking_basics) | add description  |
 | [0x08. Networking basics #1](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x08-networking_basics_2) | add description  |
 |   |   |
+---
+> ## optional
+
+| **Filename** | **Description** |
+|---|---|
+| [Command line for the win](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/command_line_for_the_win) | [CMD CHALLENGE](https://cmdchallenge.com/) is a pretty cool game challenging you on Bash skills. Everything is done via the command line and the questions are becoming increasingly complicated. It’s a good training to improve your command line skills!  |
 
 ---
 > ## contact 💬
