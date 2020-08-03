@@ -12,6 +12,7 @@
 | [0x07. Networking basics #0](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x07-networking_basics) | add description  |
 | [0x08. Networking basics #1](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x08-networking_basics_2) | add description  |
 | [0x09. Web infrastructure design](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x09-web_infrastructure_design) | add description  |
+| [0x0A-configuration_management](https://github.com/ricardo1470/holberton-system_engineering-devops/tree/master/0x0A-configuration_management) | add description  |
 |   |   |
 ---
 > ## optional
