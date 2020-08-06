@@ -4,9 +4,8 @@
 # Install nginx on your web-01 server
 # Nginx should be listening on port 80
 # You can’t use systemctl for restarting nginx
-
 sudo apt-get update
 sudo apt-get -y install nginx
 sudo ufw allow 'Nginx HTTP'
-sudo echo 'Holberton School' > /var/www/html/index.html
-sudo service nginx start
+echo 'Holberton School' > /var/www/html/index.html
+service nginx start
