@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# script Bash que transfiera un archivo de nuestro cliente a un servidor
+# script that transfers a file from our client to a server.
 
 if [[ $# -ne 4 ]]
 then
