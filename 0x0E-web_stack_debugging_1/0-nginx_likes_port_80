@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Bash script with the minimum number of commands to automate your fix.
+# Nginx must be running, and listening on port 80 of all the servers active IPv4 IPs
+# Bash script that configures a server to the above requirements
+sudo rm /etc/nginx/sites-enabled/default
+ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+sudo service nginx restart
