@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# script that configures the container
+
+# search for user www-data and replace by user nginx
+sed -i "s/#user www-data/user nginx/" /etc/nginx/nginx.conf
+# listening on all active IPs on port 8080
+sed -i "s/80/8080/g" /etc/nginx/sites-available/default
+# (RW / R / R)
+chmod 644 /etc/nginx/nginx.conf
+# start server (-user)
+sudo -u nginx service nginx start
