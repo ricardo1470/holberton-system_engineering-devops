@@ -17,6 +17,7 @@ then
 	show_subdomains "web-01" "$1"
 	show_subdomains "web-02" "$1"
 fi
+
 if (($# == 2))
 then
 	show_subdomains "$2" "$1"
