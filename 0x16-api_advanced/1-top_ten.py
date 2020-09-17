@@ -1,0 +1,15 @@
+#!/usr/bin/python3
+""" esto es un comentario """
+import requests
+
+
+def top_ten(subreddit):
+    try:
+        rq = requests.get('https://www.reddit.com/r/{}/hot.json?limit=10'.
+                          format(subreddit),
+                          headers={'User-Agent': 'custom'},
+                          allow_redirects=False)
+        for thread in rq.json().get('data').get('children'):
+            print(thread.get('data').get('title'))
+    except:
+        print('None')
