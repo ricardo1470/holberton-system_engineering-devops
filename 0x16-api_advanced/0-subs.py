@@ -2,6 +2,7 @@
 """ esto es un comentario """
 import requests
 
+
 def number_of_subscribers(subreddit):
     try:
         rq = requests.get('https://www.reddit.com/r/{}/about.json'.
