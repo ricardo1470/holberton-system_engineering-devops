@@ -1,6 +1,6 @@
 > # 0x19-postmortem
 ---
-<center>"https://pbs.twimg.com/media/D71yyZAWkAAPRbb.jpg"</center>
+<center><a href="url"><img src="https://pbs.twimg.com/media/D71yyZAWkAAPRbb.jpg" width="480" height="360"></a></center>
 ---
 The following is the incident report of the WEB infrastructure outage that occurred on `September 30, 2020`. We understand that this service issue has affected our valued developers and users, and we apologize to everyone who saw it. affected.
 
