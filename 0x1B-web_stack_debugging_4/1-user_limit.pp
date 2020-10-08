@@ -4,4 +4,3 @@ file { 'loginFile':
      path    => '/etc/security/limits.conf',
      content => '#File erased'
 }
-	    
